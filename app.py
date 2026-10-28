@@ -1,3 +1,4 @@
+# KR2: Mayorov
 import os
 import socket
 
